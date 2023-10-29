@@ -1,4 +1,4 @@
 # myFirstRepo
 this is my first repository.
-Autor - Nayem Uddin 
+Author - Nayem Uddin 
 
